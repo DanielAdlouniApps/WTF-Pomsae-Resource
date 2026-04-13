@@ -1,0 +1,194 @@
+{
+  "Category": {
+    "Beginner": [
+      {
+        "title": "Beginner-1",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_1_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/1.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Beginner-2",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_2_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/2.jpg",
+        "color": "246.0,239.0,125.0"
+      },
+      {
+        "title": "Beginner-3",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_3_jhang%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/3.jpg",
+        "color": "125.0,246.0,159.0"
+      },
+      {
+        "title": "Beginner-4",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_4_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/4.jpg",
+        "color": "7.0,191.0,13.0"
+      },
+      {
+        "title": "Beginner-5",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_5_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/5.jpg",
+        "color": "21.0,114.0,219.0"
+      },
+      {
+        "title": "Beginner-6",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_6_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/6.jpg",
+        "color": "21.0,114.0,219.0"
+      },
+      {
+        "title": "Beginner-7",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_7_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/7.jpg",
+        "color": "255.0,0.0,0.0"
+      },
+      {
+        "title": "Beginner-8",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BasicExplainBeginners/wtf_taegeuk_8_jhang_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BasicExplainBeginners/8.jpg",
+        "color": "255.0,0.0,0.0"
+      }
+    ],
+    "BlackBelt": [
+      {
+        "title": "1-Koryo",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/1-_wtf_koryo_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/1.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "2-KeumGang",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/2-_wtf_keumgang_v1%20(1080p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/2.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "3-TaeBaek",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/3-_wtf_taebaek_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/3.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "4-PyongWon",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/4-_wtf_tpyongwon_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/4.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "5-Sipjin",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/5-_wtf_sipjin_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/5.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "6-Jitae",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/6-_wtf_jitae_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/6.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "7-ChonKwon",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/7-_wtf_chonkwon_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/7.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "8-Hansu",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/8-_wtf_hansu_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/8.jpg",
+        "color": "0.0,0.0,0.0"
+      },
+      {
+        "title": "9-iLyeo",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/BlackBelt/9-_wtf_ilyeo_v1%20(1080p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/BlackBelt/9.jpg",
+        "color": "0.0,0.0,0.0"
+      }
+    ],
+    "ExtraExplanations": [
+      {
+        "title": "Advance-1",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_1_jhang_(explanations)_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/1.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-2",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_2_jhang_(explanations)_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/2.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-3",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_3_jhang_(explanations)_v1%20(480p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/3.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-4",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_4_jhang_(explanations)_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/4.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-5",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_5_jhang_(explanations)_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/5.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-6",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_6_jhang_(explanations)_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/6.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-7",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_7_jhang_(explanations)_v1%20(540p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/7.jpg",
+        "color": "255.0,255.0,255.0"
+      },
+      {
+        "title": "Advance-8",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_8_jhang_(explanations)_v1%20(540p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/8.jpg",
+        "color": "255.0,255.0,255.0"
+      }
+    ],
+    "KyorugiScore": [
+      {
+        "title": "How to score in Taekwondo",
+        "link": "https://firebasestorage.googleapis.com/v0/b/wtf-poomsae-b4346.appspot.com/o/KyorugiScore%2FHow%20to%20score%20in%20Taekwondo.mp4?alt=media",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/KyorugiScore/1.jpg",
+        "color": "255.0,0.0,0.0"
+      },
+      {
+        "title": "How to Score in WTF TKD",
+        "link": "https://firebasestorage.googleapis.com/v0/b/wtf-poomsae-b4346.appspot.com/o/KyorugiScore%2FHow%20to%20Score%20in%20WTF%20TKD.mp4?alt=media",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/KyorugiScore/2.jpg",
+        "color": "255.0,0.0,0.0"
+      },
+      {
+        "title": "TKD scoring points-sparring",
+        "link": "https://firebasestorage.googleapis.com/v0/b/wtf-poomsae-b4346.appspot.com/o/KyorugiScore%2FTKD%20scoring%20points-sparring.mp4?alt=media",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/KyorugiScore/3.jpg",
+        "color": "255.0,0.0,0.0"
+      }
+    ],
+    "Trailer": [
+      {
+        "title": "Taegeukdo Poomsae",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/Trailer/00-taegeukdo_poomsae_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/Trailer/1.jpg",
+        "color": "7.0,191.0,13.0"
+      },
+      {
+        "title": "Meaning of Taegeuk / Taichi",
+        "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/Trailer/01-_meaning_of_taegeuk_or_taichi_v1%20(720p).mp4",
+        "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/Trailer/2.jpg",
+        "color": "7.0,191.0,13.0"
+      }
+    ]
+  }
+}
