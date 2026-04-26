@@ -52,49 +52,49 @@
     ],
     "BlackBelt": [
       {
-        "title": "Advance-1",
+        "title": "Il Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_1_jhang_(explanations)_v1%20(480p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/1.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-2",
+        "title": "I Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_2_jhang_(explanations)_v1%20(480p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/2.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-3",
+        "title": "Sam Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_3_jhang_(explanations)_v1%20(480p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/3.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-4",
+        "title": "Sa Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_4_jhang_(explanations)_v1%20(720p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/4.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-5",
+        "title": "O Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_5_jhang_(explanations)_v1%20(720p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/5.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-6",
+        "title": "Yuk Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_6_jhang_(explanations)_v1%20(720p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/6.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-7",
+        "title": "Chil Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_7_jhang_(explanations)_v1%20(540p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/7.jpg",
         "color": "255.0,255.0,255.0"
       },
       {
-        "title": "Advance-8",
+        "title": "Pal Jang",
         "link": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/videos/ExtraExplanations/taegeuk_8_jhang_(explanations)_v1%20(540p).mp4",
         "thumbnail": "https://raw.githubusercontent.com/DanielAdlouniApps/Taekwondo-Assets/develop/thumbnails/ExtraExplanations/8.jpg",
         "color": "255.0,255.0,255.0"
